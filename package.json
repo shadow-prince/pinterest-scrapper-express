@@ -1,6 +1,6 @@
 {
   "name": "pintrest-scrapper-express",
-  "version": "1.0."1,
+  "version": "1.0.1",
   "description": "Pinterest scrapper for weired-words board",
   "main": "dist/index.js",
   "scripts": {
