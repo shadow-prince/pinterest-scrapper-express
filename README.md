@@ -1,5 +1,8 @@
 <h1 align="center">Pinterest Board Scrapper</h1> 
 
+[![NPM](https://nodei.co/npm/pintrest-scrapper-express.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/pintrest-scrapper-express/)
+
+
 ## Usage
 
 ### Quick Start
