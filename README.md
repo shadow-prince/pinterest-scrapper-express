@@ -1,7 +1,12 @@
-<h1 align="center">Pinterest Board Scrapper</h1> 
+<h1 align="center">
+
+Pinterest Board Scrapper
+
+![downloads](https://badgen.net/npm/dt/pintrest-scrapper-express)
+
+</h1> 
 
 [![NPM](https://nodei.co/npm/pintrest-scrapper-express.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/pintrest-scrapper-express/)
-
 
 ## Usage
 
