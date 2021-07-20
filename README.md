@@ -74,7 +74,7 @@ Url takes **two** parameters
 
   ```
 
-## To Develope
+## To Develop
 
 - Run `npm run tsc` to compile `.TS` to `.JS`
 - Run `npm run jsc` to run `index.js`
