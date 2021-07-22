@@ -2,9 +2,11 @@
 
 Pinterest Board Scrapper
 
+</h1> 
+
+
 ![downloads](https://badgen.net/npm/dt/pintrest-scrapper-express)
 
-</h1> 
 
 [![NPM](https://nodei.co/npm/pintrest-scrapper-express.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/pintrest-scrapper-express/)
 
